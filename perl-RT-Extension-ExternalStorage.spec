@@ -6,7 +6,6 @@
 #
 %define		pdir	RT
 %define		pnam	Extension-ExternalStorage
-%include	/usr/lib/rpm/macros.perl
 Summary:	RT::Extension::ExternalStorage - Store attachments outside the database
 Name:		perl-RT-Extension-ExternalStorage
 Version:	0.60
