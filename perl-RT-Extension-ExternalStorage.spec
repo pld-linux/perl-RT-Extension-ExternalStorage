@@ -9,7 +9,7 @@
 Summary:	RT::Extension::ExternalStorage - Store attachments outside the database
 Name:		perl-RT-Extension-ExternalStorage
 Version:	0.60
-Release:	2
+Release:	3
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/RT/%{pdir}-%{pnam}-%{version}.tar.gz
